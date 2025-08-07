@@ -21,9 +21,19 @@ A simple Python program that allows users to create and manage a personal to-do 
 
 # Example
 ```bash
-Name: Joey
 To-Do List Generator
 Create a personal to-do list manager to organize your daily tasks!
+
+Name: Joey
+
+Add To To-Do List
+   Enter task: Pick up dry cleaning
+   Enter due date: 8/11
+
+Task added!
+
+Joey's To Do List
+{'Pick up dry cleaning': '8/11'}
 
 To edit and review your To-Do List, explore the options below.
 
@@ -32,4 +42,4 @@ To edit and review your To-Do List, explore the options below.
     3. Change Due Date
     4. Look Up A Task
 
-To continue type 'y' or 'n' to quit:
+To continue type 'y' or 'n' to quit: 
